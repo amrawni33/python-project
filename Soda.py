@@ -1,7 +1,7 @@
 from tkinter import*
 yy=Tk()
 yy.title('Restaurant bot')
-yy.iconbitmap('E:\\restaurant\\restaurant.ico') 
+yy.iconbitmap('D:\AMR\python project\\restaurant\\restaurant.ico')
 width=500
 height=450
 screenwidth = yy.winfo_screenwidth()
